@@ -53,6 +53,7 @@ gr.Interface(
 ```
 ### OUTPUT:
 
+<img width="1127" height="689" alt="image" src="https://github.com/user-attachments/assets/15635f96-d611-404a-9d5f-2c88ddf1dc29" />
 
  
 ### RESULT:
